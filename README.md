@@ -1,9 +1,3 @@
-# Tutorial Lengkap: Docker Privilege Escalation - Export /bin/bash ke Host
-
-## 🎯 Scenario Realistis
-Developer mendapatkan akses Docker dan mengekstrak /bin/bash dari container root ke host system
-
----
 
 ## 🔰 STEP 1: Setup Environment Awal
 
